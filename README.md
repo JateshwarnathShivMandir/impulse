@@ -26,7 +26,7 @@ Prefer to watch a quick tutorial? [Watch video](https://www.youtube.com/watch?v=
 git init
 git add .
 git commit -m "init"
-git remote add origin https://github.com/<username>/<reponame>.git
+git remote add origin https://github.com/soumyaadhikary/jsmw.git
 git branch -M main
 git push -u origin main
 ```
